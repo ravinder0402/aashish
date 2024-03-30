@@ -1,0 +1,52 @@
+.create-div {
+  max-width: 400px;
+  margin-left: 40%;
+  padding: 20px;
+  /* border: 1px solid #ccc;
+  border-radius: 5px; */
+  background-color: transparent;
+}
+.createmain-div {
+  height: 1000px;
+  background-image: url("2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.createmain-div h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: goldenrod;
+}
+
+.createmain-div form {
+  display: flex;
+  flex-direction: column;
+}
+
+.createmain-div input,
+select {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.createmain-div button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.createmain-div button:hover {
+  background-color: #0056b3;
+}
+
+.createmain-div p {
+  margin-top: 10px;
+  color: red;
+}

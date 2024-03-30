@@ -1,0 +1,38 @@
+.remove-div {
+  background-image: url("RemoveBook.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 565px;
+  text-align: center;
+  padding-top: 400px;
+}
+
+.remove-div button {
+  color: red;
+  background-color: grey;
+}
+.remove-div button:hover {
+  background-color: goldenrod;
+  font-size: large;
+}
+
+.message-div {
+  font-size: large;
+  color: aqua;
+}
+
+.remove-div h2 {
+  color: black;
+  font-weight: 1000;
+  font-size: 40px;
+}
+.remove-div h1 {
+  color: red;
+  font-weight: bold;
+}
+.ash {
+  margin-left: 40%;
+  width: 30%;
+  border: 2px solid peachpuff;
+  background-color: peachpuff;
+}

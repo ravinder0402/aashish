@@ -1,0 +1,29 @@
+.user-div {
+  background-image: url("UserPagenew.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 565px;
+  text-align: center;
+  padding-top: 400px;
+}
+.user-div button {
+  padding: 10px 20px;
+  background-color: aqua;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: medium;
+  font-style: italic;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.userbutton-div button:hover {
+  background-color: goldenrod;
+  font-size: large;
+}
+.users-div {
+  width: 500px;
+
+  margin-left: 40%;
+}

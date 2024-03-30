@@ -1,0 +1,47 @@
+.otp-form-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: powderblue;
+  border: 2px solid red;
+}
+.main-div {
+  height: 955px;
+  background-image: url("image.jpg");
+  background-repeat: no-repeat, repeat;
+}
+
+.otp-form-container h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.otp-form-container label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.otp-form-container input[type="email"],
+.otp-form-container input[type="text"] {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.otp-form-container button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.otp-form-container button:hover {
+  background-color: #0056b3;
+}

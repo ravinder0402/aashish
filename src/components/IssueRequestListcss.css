@@ -1,0 +1,18 @@
+.mainissue-div {
+  background-image: url("IssueReques.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 950px;
+}
+
+.mainissue-div ul {
+  margin-left: 40%;
+  color: white;
+  margin-top: 10%;
+}
+.mainissue-div li {
+  margin-top: 2%;
+}
+.mainissue-div h2 {
+  color: white;
+}
